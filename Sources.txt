@@ -1,0 +1,15 @@
+Sparse Multiplication:
+=================
+https://www.geeksforgeeks.org/scipy-sparse-matrix-multiplication/
+
+
+Block Sparse:
+===========
+https://medium.com/gpgpu/block-sparse-matrix-vector-multiplication-with-cuda-4e616b30267
+
+
+BMM Applications:
+==============
+http://www2.hawaii.edu/~janst/141/lecture/19-Matrices.pdf
+
+https://www.ps.uni-saarland.de/courses/seminar-ws06/papers/07_franziska_ebert.pdf
