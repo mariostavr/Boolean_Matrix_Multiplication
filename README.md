@@ -25,7 +25,7 @@ My tests:
 
 
 In case you want to change the blocking size:
-1. Double click on file and change the "blocking size".
+1. Double click on code file and change the "blocking size".
 
     bBMM_v0.cpp: Line 243.
     
