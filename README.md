@@ -13,5 +13,7 @@ Steps to compile:
 4. *For blocking version, you can double click on file and change the "blocking size".
 
     bBMM_v0.cpp: Line 243.
+    
     bBMM_v1.cpp: Line 268.
+    
     mpi_omp_bBMM_v1: Line 286
