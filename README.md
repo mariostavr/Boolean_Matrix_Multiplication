@@ -2,7 +2,7 @@
 
 Steps to get ready:
 1. Go to https://colab.research.google.com/, click on "Upload" and choose the file "BMM.ipynb".
-2. Upload code files in library.
+2. Upload in library the code files from folder "Colab".
 3. Run each code cells of the tab "Create and Install - Requirments to compile/run codes".
 4. When each cell is done and you have uploaded the files you can start compiling and running.
 
