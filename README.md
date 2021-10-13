@@ -12,7 +12,7 @@ Steps to compile:
     
 OR! You can upload the arrays that are already generated, into the folder that you create with code cell
 
-4. Now you can compile and run each code version.
+3. Now you can compile and run each code version.
 
 
 
