@@ -10,7 +10,7 @@ Steps to compile:
 1. Double click on file "Generator.m". The Matlab script will be shown. You can change the size of rows.
 2. Then you can run the code cell "Generate Arrays From Matlab".
     
-OR! You can upload the arrays that are already generated, into the folder that you create with code cell
+OR! You can upload the array files that are already generated, into the folder that you create with code cell
 
 3. Now you can compile and run each code version.
 
