@@ -1,6 +1,5 @@
-# Boolean-Matrix-Multiplication
+# INSTRUCTION FOR GOOGLE COLAB:
 
-INSTRUCTION FOR GOOGLE COLAB:
 Steps:
 1. Go to https://colab.research.google.com/, click on "Upload" and choose the file "BMM.ipynb".
 2. Upload code files in library.
