@@ -8,7 +8,9 @@ Steps to get ready:
 
 Steps to compile:
 1. First, double click on "Generator.m". The Matlab script will be shown. Then you can change the size of rows.
-2. Then you can run the code cell "Generate Arrays From Matlab".g
+2. Then you can run the code cell "Generate Arrays From Matlab".
+3. Now you can compile and run each code version.
+
 
 In case you want to change the blocking size:
 1. Double click on file and change the "blocking size".
