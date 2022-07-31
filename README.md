@@ -11,7 +11,7 @@ Steps to compile:
 2. Then you can run the code cell "Generate Arrays From Matlab".
 3. Now you can compile and run each code version.
 
-My tests:
+Tests:
 1. BMM v.0: Rows = 50000, 100000
 2. BMM v.1: Roe = 50000, 100000, 3000000, 6000000
 3. MPI BMM v.1: Rows = 3000000, mpiProcessors = 2
